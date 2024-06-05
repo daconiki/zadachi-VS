@@ -1,0 +1,7 @@
+C:\Users\sastezaniq\source\repos\ConsoleApp166\ConsoleApp166\bin\Debug\ConsoleApp166.exe.config
+C:\Users\sastezaniq\source\repos\ConsoleApp166\ConsoleApp166\bin\Debug\ConsoleApp166.exe
+C:\Users\sastezaniq\source\repos\ConsoleApp166\ConsoleApp166\bin\Debug\ConsoleApp166.pdb
+C:\Users\sastezaniq\source\repos\ConsoleApp166\ConsoleApp166\obj\Debug\ConsoleApp166.csproj.AssemblyReference.cache
+C:\Users\sastezaniq\source\repos\ConsoleApp166\ConsoleApp166\obj\Debug\ConsoleApp166.csproj.CoreCompileInputs.cache
+C:\Users\sastezaniq\source\repos\ConsoleApp166\ConsoleApp166\obj\Debug\ConsoleApp166.exe
+C:\Users\sastezaniq\source\repos\ConsoleApp166\ConsoleApp166\obj\Debug\ConsoleApp166.pdb
